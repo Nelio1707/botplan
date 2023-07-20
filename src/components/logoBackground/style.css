@@ -1,0 +1,9 @@
+.explosao {
+  box-shadow: #676e8f -1px 20px 100px 100px;
+  opacity: 0.5;
+}
+
+.explosao-2 {
+  box-shadow: #676e8f -1px 20px 200px 200px;
+  opacity: 0.5;
+}
