@@ -113,7 +113,7 @@ export default function Home() {
         <div className="w-10/12 rounded-xl mx-auto bg-primaryColor h-32 opacity-50 relative -mt-10 p-5 flex flex-row justify-center items-center">
           <CardIco text="Pagamento Seguro" icon={Pagamento} />
           <CardIco text="Acesso Imediato" icon={Play} />
-          <CardIco text="Garantia de Funções" icon={Garantia} />
+          <CardIco text="Online 24/7" icon={Garantia} />
         </div>
       </div>
       <div className="flex flex-col p-5">

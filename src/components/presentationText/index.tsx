@@ -11,7 +11,7 @@ export default function PresentationText() {
        AUTOMATIZE SEUS AGENDAMENTOS AGORA
       </h1>
       <p className="text-[#FFF] text-[20px] font-black">
-        Potencialize seu tempo! <br />Deixe que o nosso chatbot se encarregue de todo seu agendamento, Você terá um assistente virtual inteligente e eficiente que cuidará de tarefas complexas, como agendamentos, atendimento ao cliente e respostas a perguntas comuns
+        Potencialize seu tempo! <br />Deixe que o nosso chatbot se encarregue de todas as suas marcações. Você terá um assistente virtual inteligente e eficiente que cuidará de tarefas complexas, como agendamentos, atendimento ao cliente e respostas a perguntas frequentes.
       </p>
     </div>
   );
