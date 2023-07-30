@@ -90,7 +90,7 @@ export default function Home() {
       key: "6",
       pergunta: "Como posso começar a utilizar o BotPlan? ",
       resposta:
-        "É fácil começar! Entre em contato conosco através do formulário de contato no site, e nossa equipe entrará em contato para fornecer mais informações sobre o BotPlan e como você pode começar a utilizá-lo em seu negócio. Estamos ansiosos para ajudá-lo a otimizar sua rotina e alcançar novos patamares de produtividade!",
+        "É fácil começar! Entre em contato conosco através do nosso whatsapp, e nossa equipe entrará em contato para fornecer mais informações sobre o BotPlan e como você pode começar a utilizá-lo em seu negócio. Estamos ansiosos para ajudá-lo a otimizar sua rotina e alcançar novos patamares de produtividade!",
     },
   ] as Accordionprops[];
 
