@@ -134,15 +134,7 @@ export default function Home() {
             ))}
         </div>
       </div>
-      <div className="w-screen h-fit mb-3">
-        <Image src={Fundo3} alt="Fundo3" />
-      </div>
-      <div className="w-screen h-fit flex flex-col">
-        <h2 className="text-[#FFFFFF] text-center w-screen text-[36px] font-medium mt-12 mb-5">
-          Confira abaixo alguns comportamentos do BotPlan
-        </h2>
-        <Carrossel slides={SLIDES} options={OPTIONS} />
-      </div>
+     
       <div className="flex flex-col w-screen h-fit">
         <h1 className="text-[#FFFFFF] text-center w-screen text-[36px] font-semibold mt-12 mb-5">
           DÚVIDAS FREQUENTES

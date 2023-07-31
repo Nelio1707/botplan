@@ -14,11 +14,7 @@ export default function LogoBackground() {
       <div className="explosao w-[30vw] h-[30vw] opacity-60 absolute top-[10vw] -z-10 rounded-full right-[15vw] bg-[#676e8f]"></div>
       <div className="explosao-2 w-[30vw] h-[30vw] opacity-60 absolute top-[10vw] -z-10 rounded-full -right-[15vw] bg-[#676e8f]"></div>
 
-      <Image
-        src={Background}
-        alt="LogoBackground"
-        className={`w-screen h-[100vh] opacity-10 absolute top-0 left-0 -z-20`}
-      />
+      
     </div>
   );
 }
