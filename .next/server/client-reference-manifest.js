@@ -1229,11 +1229,11 @@ self.__RSC_MANIFEST={
   },
   "edgeSSRModuleMapping": {},
   "cssFiles": {
-    "C:\\Users\\nelio\\Desktop\\NOVO SITE JOAO PAULO\\sitejoao\\SiteJoaoPaulo\\src\\app\\page": [
-      "static/css/app/page.css"
-    ],
     "C:\\Users\\nelio\\Desktop\\NOVO SITE JOAO PAULO\\sitejoao\\SiteJoaoPaulo\\src\\app\\layout": [
       "static/css/app/layout.css"
+    ],
+    "C:\\Users\\nelio\\Desktop\\NOVO SITE JOAO PAULO\\sitejoao\\SiteJoaoPaulo\\src\\app\\page": [
+      "static/css/app/page.css"
     ]
   },
   "clientModules": {
@@ -2933,6 +2933,20 @@ self.__RSC_MANIFEST={
       ],
       "async": false
     },
+    "C:\\Users\\nelio\\Desktop\\NOVO SITE JOAO PAULO\\sitejoao\\SiteJoaoPaulo\\src\\app\\globals.css#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/layout.css"
+      ]
+    },
+    "C:\\Users\\nelio\\Desktop\\NOVO SITE JOAO PAULO\\sitejoao\\SiteJoaoPaulo\\node_modules\\next\\font\\google\\target.css?{\"path\":\"src\\\\app\\\\layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}#": {
+      "id": "null",
+      "name": "default",
+      "chunks": [
+        "static/css/app/layout.css"
+      ]
+    },
     "C:\\Users\\nelio\\Desktop\\NOVO SITE JOAO PAULO\\sitejoao\\SiteJoaoPaulo\\src\\components\\accordion\\styles.css#": {
       "id": "null",
       "name": "default",
@@ -3601,20 +3615,6 @@ self.__RSC_MANIFEST={
         "app/page:static/chunks/app/page.js"
       ],
       "async": false
-    },
-    "C:\\Users\\nelio\\Desktop\\NOVO SITE JOAO PAULO\\sitejoao\\SiteJoaoPaulo\\src\\app\\globals.css#": {
-      "id": "null",
-      "name": "default",
-      "chunks": [
-        "static/css/app/layout.css"
-      ]
-    },
-    "C:\\Users\\nelio\\Desktop\\NOVO SITE JOAO PAULO\\sitejoao\\SiteJoaoPaulo\\node_modules\\next\\font\\google\\target.css?{\"path\":\"src\\\\app\\\\layout.tsx\",\"import\":\"Inter\",\"arguments\":[{\"subsets\":[\"latin\"]}],\"variableName\":\"inter\"}#": {
-      "id": "null",
-      "name": "default",
-      "chunks": [
-        "static/css/app/layout.css"
-      ]
     }
   }
 }
